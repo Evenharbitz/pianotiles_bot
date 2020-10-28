@@ -12,3 +12,4 @@ pyautogui.displayMousePosition()
 #4 = 860
 
 # Y = 850
+#By: Even Harbitz
